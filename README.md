@@ -5,6 +5,8 @@ ioriweb dedicated backup tool(render postgreSQL)
 
 * add overview, csv_backup, img_backup function.
 
+* add progress bar(use tqdm).
+
 ## overview function:
 
 ![overview function](./database-overview.png)
